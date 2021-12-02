@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="ce">CE</string>
+    <string name="del">DEL</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="point">.</string>
+    <string name="equal">=</string>
+    <string name="r0">R0</string>
+    <string name="r2">R2</string>
+    <string name="square">x<sup><small>2</small></sup></string>
+    <string name="sqRoot"><sup>&#x221A;</sup>x</string>
+    <string name="cubeRoot">&#x221B;</string>
+    <string name="percent">%</string>
+    <string name="pie">&#960;</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="factorial">!</string>
+    <string name="ePowerX">e<sup>x</sup></string>
+    <string name="xPowerY">x<sup><small>y</small></sup></string>
+    <string name="sin">sin</string>
+    <string name="sinInverse">sin<sup><small>-1</small></sup></string>
+    <string name="cos">cos</string>
+    <string name="cosInverse">cos<sup><small>-1</small></sup></string>
+    <string name="tan">tan</string>
+    <string name="tanInverse">tan<sup><small>-1</small></sup></string>
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="cube">x<sup><small>3</small></sup></string>
+    <string name="history">History</string>
+    <string name="exit">Exit</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc vel. Velit ut tortor pretium viverra suspendisse. Quis eleifend quam adipiscing vitae proin. Tristique et egestas quis ipsum suspendisse ultrices gravida. Tempus urna et pharetra pharetra. At erat pellentesque adipiscing commodo elit. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Eget felis eget nunc lobortis mattis aliquam faucibus purus. Velit laoreet id donec ultrices tincidunt arcu non sodales neque.</string>
+    <string name="clear">Clear</string>
+
+</resources>

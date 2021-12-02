@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CalculatorAssignment.Button" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/generic_button_style</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="defaultButton" parent="Theme.CalculatorAssignment.Button">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="layout_constraintWidth_percent">0.2</item>
+        <item name="layout_constraintHeight_percent">0.166</item>
+    </style>
+
+    <style name="functionButton" parent="Theme.CalculatorAssignment.Button">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/primary_dark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="layout_constraintWidth_percent">0.25</item>
+        <item name="layout_constraintHeight_percent">0.166</item>
+    </style>
+</resources>
