@@ -2,9 +2,9 @@
 An android application implementing calculator's functions.
 
 # Views
-- Potrait
+## Potrait
  ![Potrait View](https://github.com/kode-captain/Calulator/blob/master/screenshots/Potrait.png)
-- Landscape
+## Landscape
  ![Landscape View](https://github.com/kode-captain/Calulator/blob/master/screenshots/Landscape.png)
-- Histroy
+## Histroy
  ![Histroy View](https://github.com/kode-captain/Calulator/blob/master/screenshots/History.png)
